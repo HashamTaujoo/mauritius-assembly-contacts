@@ -1,0 +1,464 @@
+[
+  {
+    "Number": 1,
+    "Name": "Hon. Gilles Fabrice DAVID, MP",
+    "Surname": "DAVID",
+    "Email": "fdavid@govmu.org",
+    "Email2": "fdavid013@yahoo.fr"
+  },
+  {
+    "Number": 1,
+    "Name": "Hon. Kuvalayan Kugan PARAPEN, MP",
+    "Surname": "PARAPEN",
+    "Email": "kparapen@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 1,
+    "Name": "Hon. Marie Arianne NAVARRE-MARIE, MP",
+    "Surname": "NAVARRE-MARIE",
+    "Email": "mnavarremarie@govmu.org",
+    "Email2": "anavarre-marie@hotmail.co.uk"
+  },
+  {
+    "Number": 2,
+    "Name": "Dr. the Hon. Farhad Ismael AUMEER, MP",
+    "Surname": "AUMEER",
+    "Email": "faumeer@govmu.org",
+    "Email2": "abdfa6364@gmail.com"
+  },
+  {
+    "Number": 2,
+    "Name": "Hon. Muhammad Reza Cassam UTEEM, MP",
+    "Surname": "UTEEM",
+    "Email": "muteem@govmu.org",
+    "Email2": "muteem@intnet.mu"
+  },
+  {
+    "Number": 2,
+    "Name": "Hon. Mahomed Osman Cassam MAHOMED, MP",
+    "Surname": "MAHOMED",
+    "Email": "smohamed@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 3,
+    "Name": "Hon. Sayed Muhammad Aadil AMEER MEEA, MP",
+    "Surname": "AMEER MEEA",
+    "Email": "ameermeea@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 3,
+    "Name": "Hon. Mohamed Ehsan JUMAN, MP",
+    "Surname": "JUMAN",
+    "Email": "mjuman@govmu.org",
+    "Email2": "eshanjuman@yahoo.com"
+  },
+  {
+    "Number": 3,
+    "Name": "Hon. Shakeel Ahmed Yousuf Abdul Razack MOHAMED, MP",
+    "Surname": "MOHAMED",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 4,
+    "Name": "Hon. Ashok Kumar SUBRON, MP",
+    "Surname": "SUBRON",
+    "Email": "aksubron@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 4,
+    "Name": "Hon. Joe LESJONGARD, MP",
+    "Surname": "LESJONGARD",
+    "Email": "gplesjongard@govmu.org",
+    "Email2": "jlesjongard@hotmail.com"
+  },
+  {
+    "Number": 4,
+    "Name": "Hon. Adrien Charles DUVAL, MP",
+    "Surname": "DUVAL",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 4,
+    "Name": "Hon. Louis Ludovic Michel CASERNE, MP",
+    "Surname": "CASERNE",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 4,
+    "Name": "Hon. Marie Anabelle Andelana SAVABADDY, MP",
+    "Surname": "SAVABADDY",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 5,
+    "Name": "Dr. the Hon. Navinchandra RAMGOOLAM, GCSK, FRCP, MP",
+    "Surname": "RAMGOOLAM",
+    "Email": "nramgoolam@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 5,
+    "Name": "Hon. Ranjiv WOOCHIT, OSK, MP",
+    "Surname": "WOOCHIT",
+    "Email": "rwoochit@govmu.org",
+    "Email2": "nrwoochit@yahoo.com"
+  },
+  {
+    "Number": 5,
+    "Name": "Hon. Kaviraj ROOKNY, MP",
+    "Surname": "ROOKNY",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 6,
+    "Name": "Dr. the Hon. Mahend GUNGAPERSAD, MP",
+    "Surname": "GUNGAPERSAD",
+    "Email": "mgungapersad@govmu.org",
+    "Email2": "mgungapersad@yahoo.com"
+  },
+  {
+    "Number": 6,
+    "Name": "Hon. Nitish Sharma BEEJAN, MP",
+    "Surname": "BEEJAN",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 6,
+    "Name": "Hon. Rameshwar ETWAREEA, MP",
+    "Surname": "ETWAREEA",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 7,
+    "Name": "Dr. the Hon. Kaviraj Sharma SUKON, MP",
+    "Surname": "SUKON",
+    "Email": "kssukon@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 7,
+    "Name": "Hon. Lutchmanah PENTIAH, MP",
+    "Surname": "PENTIAH",
+    "Email": "lpentiah@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 7,
+    "Name": "Dr. the Hon. Sandeep PRAYAG, MP",
+    "Surname": "PRAYAG",
+    "Email": "nprayag@gmail.com",
+    "Email2": ""
+  },
+  {
+    "Number": 8,
+    "Name": "Dr. the Hon. Babita THANNOO, MP",
+    "Surname": "THANNOO",
+    "Email": "bthannoo@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 8,
+    "Name": "Hon. Dhaneshwar DAMRY, MP",
+    "Surname": "DAMRY",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 8,
+    "Name": "Hon. Pynivel VENKATASAMI, MP",
+    "Surname": "VENKATASAMI",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 9,
+    "Name": "Hon. Anil Kumar BACHOO, GOSK, MP",
+    "Surname": "BACHOO",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 9,
+    "Name": "Hon. Chandraprakash RAMKALAWON, MP",
+    "Surname": "RAMKALAWON",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 9,
+    "Name": "Hon. Raviraj Sinha BEECHOOK, MP",
+    "Surname": "BEECHOOK",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 10,
+    "Name": "Dr. the Hon. Avinash RAMTOHUL, MP",
+    "Surname": "RAMTOHUL",
+    "Email": "avramtohul@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 10,
+    "Name": "Hon. Chetan Anand BABOOLALL, MP",
+    "Surname": "BABOOLALL",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 10,
+    "Name": "Hon. Mohamed Reza SAUMTALLY, MP",
+    "Surname": "SAUMTALLY",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 11,
+    "Name": "Hon. Anishta BABOORAM, MP",
+    "Surname": "BABOORAM",
+    "Email": "anbabooram@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 11,
+    "Name": "Hon. Ashley RAMDASS, MP",
+    "Surname": "RAMDASS",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 11,
+    "Name": "Hon. Manoj SEEBURN, MP",
+    "Surname": "SEEBURN",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 12,
+    "Name": "Hon. Dhananjay RAMFUL, MP",
+    "Surname": "RAMFUL",
+    "Email": "dramful@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 12,
+    "Name": "Hon. Chitraduthsing LUKEERAM, MP",
+    "Surname": "LUKEERAM",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 12,
+    "Name": "Hon. Gilbert Tony APOLLON, MP",
+    "Surname": "APOLLON",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 13,
+    "Name": "Hon. Hambyrajen NARSINGHEN, MP",
+    "Surname": "NARSINGHEN",
+    "Email": "hnarsinghen@govmu.org",
+    "Email2": "hnarsingh@yahoo.com"
+  },
+  {
+    "Number": 13,
+    "Name": "Dr. the Hon. Rubna Begum DAUREEAWO, MP",
+    "Surname": "DAUREEAWO",
+    "Email": "rdaureeawo@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 13,
+    "Name": "Hon. Roshan JHUMMUN, MP",
+    "Surname": "JHUMMUN",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 14,
+    "Name": "Hon. Marie Veronique LEU-GOVIND, MP",
+    "Surname": "LEU-GOVIND",
+    "Email": "vleu-govind@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 14,
+    "Name": "Hon. Balkrishna BABAJEE, MP",
+    "Surname": "BABAJEE",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 14,
+    "Name": "Hon. Shridhur JUGURNAUTH, MP",
+    "Surname": "JUGURNAUTH",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 15,
+    "Name": "Hon. Khushal LOBINE, MP",
+    "Surname": "LOBINE",
+    "Email": "klobine@govmu.org??",
+    "Email2": "klobine@barrister.mu"
+  },
+  {
+    "Number": 15,
+    "Name": "Hon. Mohammad Fawzi ALLYMUN, MP",
+    "Surname": "ALLYMUN",
+    "Email": "mfallymun@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 15,
+    "Name": "Hon. Patrick Gervais ASSIRVADEN, MP",
+    "Surname": "ASSIRVADEN",
+    "Email": "passirvaden@govmu.org?",
+    "Email2": ""
+  },
+  {
+    "Number": 16,
+    "Name": "Hon. Joanna Marie BERENGER, MP",
+    "Surname": "BERENGER",
+    "Email": "jberenger@govmu.org",
+    "Email2": "joannaberenger@hotmail.com"
+  },
+  {
+    "Number": 16,
+    "Name": "Hon. Mahendra GONDEEA, OSK, MP",
+    "Surname": "GONDEEA",
+    "Email": "mgondeea@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 16,
+    "Name": "Dr. the Hon. Jyoti JEETUN, MP",
+    "Surname": "JEETUN",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 17,
+    "Name": "Hon. Govindranath GUNNESS, MP",
+    "Surname": "GUNNESS",
+    "Email": "ggunness@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 17,
+    "Name": "Hon. John Michael Tzoun Sao YEUNG SIK YUEN, MP",
+    "Surname": "YEUNG SIK YUEN",
+    "Email": "jmyeungsikyuen@govmu.org",
+    "Email2": "msikyuen@gmail.com?"
+  },
+  {
+    "Number": 17,
+    "Name": "Hon. Christian Harold Richard DUVAL, MP",
+    "Surname": "DUVAL",
+    "Email": "rduval@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 18,
+    "Name": "Dr. the Hon. Arvin BOOLELL, GOSK, MP",
+    "Surname": "BOOLELL",
+    "Email": "aboolell@govmu.org??",
+    "Email2": "arvinboolell@icloud.com"
+  },
+  {
+    "Number": 18,
+    "Name": "Hon. Marie Genevieve Stephanie ANQUETIL, MP",
+    "Surname": "ANQUETIL",
+    "Email": "sanquetil@govmu.org",
+    "Email2": "mgs.anquetil@gmail.com"
+  },
+  {
+    "Number": 18,
+    "Name": "Hon. Vedasingam Vasudevachariar BALOOMOODY, MP",
+    "Surname": "BALOOMOODY",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 19,
+    "Name": "Hon. Darmarajen NAGALINGUM, MP",
+    "Surname": "NAGALINGUM",
+    "Email": "danagalingum@govmu.org????",
+    "Email2": ""
+  },
+  {
+    "Number": 19,
+    "Name": "Hon. Jean Sydney PIERRE, MP",
+    "Surname": "PIERRE",
+    "Email": "jspierre@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 19,
+    "Name": "Hon. Paul Raymond BERENGER, GCSK, MP",
+    "Surname": "BERENGER",
+    "Email": "pberenger@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 20,
+    "Name": "Hon. Eileen Karen Lee Chin FOO KUNE-BACHA, MP",
+    "Surname": "FOO KUNE-BACHA",
+    "Email": "efookune@govmu.org?",
+    "Email2": ""
+  },
+  {
+    "Number": 20,
+    "Name": "Hon. Jean Patrice France QUIRIN, MP",
+    "Surname": "QUIRIN",
+    "Email": "jquirin@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 20,
+    "Name": "Hon. Rajesh Anand BHAGWAN, MP",
+    "Surname": "BHAGWAN",
+    "Email": "rbhagwan@govmu.org",
+    "Email2": "rbhagwan@hotmail.co.uk"
+  },
+  {
+    "Number": 21,
+    "Name": "Hon. Henriette-Manan DIANETTE, MP",
+    "Surname": "DIANETTE",
+    "Email": "dhenriette-manan@govmu.org",
+    "Email2": ""
+  },
+  {
+    "Number": 21,
+    "Name": "Hon. Jean Francisco FRANCOIS, MP",
+    "Surname": "FRANCOIS",
+    "Email": "jfrancois@govmu.org",
+    "Email2": "jffrancois71@gmail.com"
+  },
+  {
+    "Number": 21,
+    "Name": "Hon. Jacques EDOUARD, MP",
+    "Surname": "EDOUARD",
+    "Email": "",
+    "Email2": ""
+  },
+  {
+    "Number": 21,
+    "Name": "Hon. Marie Roxana COLLET, MP",
+    "Surname": "COLLET",
+    "Email": "",
+    "Email2": ""
+  }
+]
