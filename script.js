@@ -38,7 +38,7 @@ async function showRepresentatives(number = null, searchTerm = "") {
           <h5 class="card-title">${rep.Name}</h5>
           <p class="card-text mb-1"><strong>Email:</strong> <a href="mailto:${rep.Email}">${rep.Email}</a></p>
           ${email2HTML}
-          <span class="badge bg-primary">Region ${rep.Number}</span>
+          <span class="badge bg-dark">Region ${rep.Number}</span>
         </div>
       `;
 
